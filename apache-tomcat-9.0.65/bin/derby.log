@@ -1,20 +1,11 @@
 ----------------------------------------------------------------
-2022-09-10 00:12:54.966 GMT:
- Booting Derby version The Apache Software Foundation - Apache Derby - 10.6.1.0 - (938214): instance a816c00e-0183-24bd-ff12-000045bf6a70 
+2022-11-19 23:47:30.973 GMT:
+ Booting Derby version The Apache Software Foundation - Apache Derby - 10.6.1.0 - (938214): instance a816c00e-0184-924a-41fc-00000e63db90 
 on database directory /home/kiro/SQE-TA-Fall-2022/mangoDB   with class loader ParallelWebappClassLoader
   context: test
   delegate: false
 ----------> Parent Classloader:
-java.net.URLClassLoader@21b8d17c
+java.net.URLClassLoader@6433a2
 
 
 Database Class Loader started - derby.database.classpath=''
-
-2022-09-10 00:20:14.051 GMT:
-Shutting down instance a816c00e-0183-24bd-ff12-000045bf6a70 with class loader ParallelWebappClassLoader
-  context: test
-  delegate: false
-----------> Parent Classloader:
-java.net.URLClassLoader@21b8d17c
- 
-----------------------------------------------------------------
